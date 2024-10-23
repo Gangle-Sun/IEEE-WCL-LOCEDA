@@ -10,7 +10,7 @@
 %*   [1] G. Sun, W. Wang, W. Xu, and C. Studer, "Low-Coherence Sequence  Design Under PAPR Constraints," IEEE Wireless 
 %*   Commun. Lett., 2024.
 %* ---------------------------------------------------------------------------------------------------------------------
-%*   This paper is also available on https://arxiv.org/abs/2407.21400 
+%*   This paper is also available on https://arxiv.org/abs/2407.21400v2 
 %*   If you find our code and paper helpful, please cite our work. Thank you very much! ^o^
 %* ---------------------------------------------------------------------------------------------------------------------
 %%
