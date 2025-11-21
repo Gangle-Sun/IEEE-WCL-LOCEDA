@@ -8,3 +8,13 @@ This code implements the LOw-Coherence sEquence Design Algorithm (LOCEDA) from o
 This paper is also available at https://arxiv.org/abs/2407.21400v2
 
 If you find our code and paper helpful, we would greatly appreciate it if you could cite our work. Thank you very much! ^o^
+
+## IEEE BibTeX helper
+
+Use `convert_bib.py` to convert BibTeX entries downloaded from IEEE Xplore into the abbreviated IEEE format (adds the month, wraps acronyms, and replaces journal names with the strings from `IEEEabrv.bib`).
+
+```bash
+python convert_bib.py input.bib --output output.bib
+```
+
+The script reads one or more entries from `input.bib` and writes the formatted result to stdout or to `output.bib` if provided.
